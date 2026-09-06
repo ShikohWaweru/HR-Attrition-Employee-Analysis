@@ -154,4 +154,12 @@ Business travel compounds this: frequent travellers leave at **24.8%** vs 8.0% f
 
 `Excel` `Pivot Tables` `COUNTIFS` `Dashboard Design` `Slicers` `Data Cleaning` `Segmentation Analysis` `CRISP-DM` `Workforce Analytics` `Data Storytelling`
 
+
 ---
+
+<div align="center">
+
+**Rosemary Waweru** · Data Analyst
+[LinkedIn](https://www.linkedin.com/in/rosemary-waweru-85108b2a1)
+
+</div>
